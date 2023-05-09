@@ -1,0 +1,373 @@
+header h1{
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main div.illustratori h1{
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body div.illustratori a {
+    text-decoration: none;
+    color: black;
+    list-style: none;
+
+}
+main div.illustratori li{
+list-style: none;
+}
+main div.illustratori{
+    padding: 10%;
+    display: grid;
+    grid-template-columns: 1fr  1fr;
+    gap: 10px;
+    border-radius: 0 0 10px 10px;
+    }
+
+    main div.camillo h1{
+    margin-left: 13%;
+    }
+
+    main div.camillo img{
+    margin-left: 7%;
+    }
+    
+    main div.fritz h1{
+    margin-left: 20%;  
+    }
+    
+    main div.fritz img{
+    margin-left: 7%;  
+    }
+
+    main div.karlotta h1{
+    margin-left: 60%;
+    }
+
+    main div.karlotta img{
+    margin-left: 55%;  
+    }
+
+    main div.tim h1{
+    margin-left: 64%;
+    }
+    main div.tim img{
+    margin-left: 55%;  
+    }
+
+    main div.xoana h1{
+    margin-left: 14%;  
+    }
+    main div.xoana img{
+    margin-left: 7%;  
+    }
+    main div.boca h1{
+    margin-left: 68%;  
+    }
+    main div.boca img{
+    margin-left: 55%;  
+}
+
+
+
+
+header div.camillonome h1{
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+   
+}
+main div.camillotesto{
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+header div.camillonome img{
+    margin-left: 31%;
+}
+footer div.fotocamillox3{
+    padding: 20%;
+    display: flex; 
+    gap: 70px;
+    margin-top: -15%;
+    margin-left: -4%;
+}
+footer div.camilloimg1{
+    margin-top: 1%;
+}
+footer div.camilloimg4{
+    padding: 10%;
+    display: flex; 
+    margin-top: -30%;
+    margin-left: 6%;
+}
+footer div.camilloimg5{
+    padding: 10%;
+    display: flex; 
+    margin-top: -45.5%;
+    margin-left: 55.4%;
+}
+
+
+
+
+
+header div.chisiamo h1{
+    gap: 10%;
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+main div.chisiamotesto h2{
+    text-align: center;
+    font-size: 200%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer div.riga1{
+    padding: 10%;
+    display: flex; 
+    gap: 13%;
+    margin-top: -10%;
+}
+footer div.nomiriga1{
+    text-align: center;
+    gap: 20%;
+    display: flex;
+    margin-top: 9%;
+    margin-left: 11%;
+}
+footer div.riga2{
+    padding: 10%;
+    display: flex; 
+    gap: 13%;
+    margin-top: -10%;
+}
+footer div.nomiriga2{
+    text-align: center;
+    gap: 22%;
+    display: flex;
+    margin-top: 2%;
+    margin-left: 15%;
+}
+
+
+
+
+header div.timnome h1{
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main div.timtesto h2{
+margin-left: 50%;
+margin-right: 20%;
+margin-top: 12%;
+}
+
+footer div.timimg1{
+margin-top: -32%;
+margin-left: 18%;
+}
+
+
+footer div.timfoto1{
+        padding: 10%;
+        display: flex; 
+        gap: 1%;
+        margin-top: -10%;
+        margin-left: 8%;
+}
+footer div.timfoto2{
+    padding: 10%;
+    display: flex; 
+    gap: 0%;
+    margin-top: -10%;
+    margin-left: 8%;
+    margin-top: -19%;
+}
+
+
+
+
+header div.nomekarlotta h1{
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main div.karlottatesto h2{
+    margin-left: 56%;
+    margin-right: 22%;
+    margin-top: 12%;
+}
+footer div.kimg1{
+    padding: 10%;
+        display: flex; 
+        gap: 1%;
+        margin-top: -61.5%;
+        margin-left: 8%;
+}
+footer div.kriga2{
+    padding: 10%;
+    display: flex; 
+    gap: 1%;
+    margin-top: -18%;
+    margin-left: 8%;
+}
+footer div.kriga3{
+    padding: 10%;
+    display: flex; 
+    gap: 1%;
+    margin-top: -18%;
+    margin-left: 8%; 
+}
+footer div.fine{
+    padding: 10%;
+    display: flex; 
+    gap: 1%;
+    margin-top: -47.4%;
+    margin-left: 49%; 
+}
+
+
+
+
+header div.xnome h1{
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main div.xfoto{
+    margin-left: 8%;
+    display: flex;
+    gap: 1%;
+    margin-top: 10%;
+}
+main div.ximg5 {
+    display: flex;
+    margin-left: 31.2%;
+    margin-top: -21%;
+}
+main div.xtesto{
+    margin-top: 10%;
+    margin-left: 8%;
+    margin-right: 6%;
+    text-align: center;
+}
+footer div.ximg6{
+    display: flex; 
+    gap: 2%;
+    margin-top: 20%;
+    margin-left: 2%; 
+}
+footer div.ximg7{
+    display: flex; 
+    gap: 2%;
+    margin-top: -35.4%;
+    margin-left: 23%; 
+}
+footer div.ximg8{
+    display: flex; 
+    gap: 2%;
+    margin-top: -35.4%;
+    margin-left: 51%; 
+}
+footer div.ximg9{
+    display: flex; 
+    gap: 2%;
+    margin-top: -26.6%;
+    margin-left: 78.5%; 
+}
+
+
+
+
+
+header div.lnome h1{
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main div.lriga1{
+    padding: 10%;
+    display: flex; 
+    gap: 8%;
+    margin-top: -3%;
+}
+main div.limg1{
+    margin-top: 8%;
+}
+main div.limg2{
+    margin-top: 2%;
+}
+main div.limg3{
+    margin-top: -2%;
+}
+main div.ltesto{
+    margin-top: -5%;
+    margin-left: 8%;
+    margin-right: 10%;
+    text-align: center;
+}
+footer div.lriga2{
+    padding: 10%;
+    display: flex; 
+    gap: 3%;
+    margin-top: -3%;
+}
+footer div.limg4{
+    margin-top: 7%;
+}
+footer div.limg5{
+    margin-top: 3.4%;
+}
+footer div.lriga3{
+    padding: 10%;
+    display: flex; 
+    gap: 6.2%;
+    margin-top: -18%;
+}
+
+
+
+
+header div.bnome h1{
+    margin-top: 10%;
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main div.briga1{
+    padding: 15%;
+    display: flex; 
+    gap: 10%;
+    margin-top: -3%;
+}
+main div.bimg3{
+    margin-top: -12%;
+    margin-left: 15%;
+}
+main div.btesto h2{
+    margin-left: 36%;
+margin-right: 12%;
+margin-top: -19%;
+}
+footer div.briga2{
+    padding: 10%;
+    display: flex; 
+    gap: 2%;
+    margin-top: -10%;
+}
+footer div.bimg4{
+    margin-top: -5.5%;
+    margin-left: 6.2%;
+}
